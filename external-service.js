@@ -12,7 +12,7 @@ const externalService = {};
   const _countriesList = [
     {
       name: 'Ukraine',
-      flagURL: 'https://www.countryflags.io/ua/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/ua.png',
       region: _regionsList.eu,
       area: 603500,
       capital: 'Kyiv',
@@ -20,7 +20,7 @@ const externalService = {};
     },
     {
       name: 'Hungary',
-      flagURL: 'https://www.countryflags.io/hu/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/hu.png',
       region: _regionsList.eu,
       area: 93028,
       capital: 'Budapest',
@@ -28,7 +28,7 @@ const externalService = {};
     },
     {
       name: 'Switzerland',
-      flagURL: 'https://www.countryflags.io/ch/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/ch.png',
       region: _regionsList.eu,
       area: 41284,
       capital: 'Bern',
@@ -41,7 +41,7 @@ const externalService = {};
     },
     {
       name: 'Belarus',
-      flagURL: 'https://www.countryflags.io/by/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/by.png',
       region: _regionsList.eu,
       area: 207600,
       capital: 'Minsk',
@@ -49,7 +49,7 @@ const externalService = {};
     },
     {
       name: 'France',
-      flagURL: 'https://www.countryflags.io/fr/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/fr.png',
       region: _regionsList.eu,
       area: 551695,
       capital: 'Paris',
@@ -57,7 +57,7 @@ const externalService = {};
     },
     {
       name: 'United Kingdom',
-      flagURL: 'https://www.countryflags.io/gb/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/gb.png',
       region: _regionsList.eu,
       area: 242900,
       capital: 'London',
@@ -65,7 +65,7 @@ const externalService = {};
     },
     {
       name: 'Croatia',
-      flagURL: 'https://www.countryflags.io/hr/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/hr.png',
       region: _regionsList.eu,
       area: 56594,
       capital: 'Zagreb',
@@ -73,7 +73,7 @@ const externalService = {};
     },
     {
       name: 'Mexico',
-      flagURL: 'https://www.countryflags.io/mx/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/mx.png',
       region: _regionsList.na,
       area: 1964375,
       capital: 'Mexico City',
@@ -81,7 +81,7 @@ const externalService = {};
     },
     {
       name: 'Canada',
-      flagURL: 'https://www.countryflags.io/ca/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/ca.png',
       region: _regionsList.na,
       area: 9984670,
       capital: 'Ottawa',
@@ -89,7 +89,7 @@ const externalService = {};
     },
     {
       name: 'United States',
-      flagURL: 'https://www.countryflags.io/um/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/us.png',
       region: _regionsList.na,
       area: 9372610,
       capital: 'Washington D.C.',
@@ -97,7 +97,7 @@ const externalService = {};
     },
     {
       name: 'Argentina',
-      flagURL: 'https://www.countryflags.io/ar/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/ar.png',
       region: _regionsList.sa,
       area: 2780400,
       capital: 'Buenos Aires',
@@ -105,7 +105,7 @@ const externalService = {};
     },
     {
       name: 'Brazil',
-      flagURL: 'https://www.countryflags.io/br/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/br.png',
       region: _regionsList.sa,
       area: 8515767,
       capital: 'Bras\u00edlia',
@@ -113,7 +113,7 @@ const externalService = {};
     },
     {
       name: 'Bolivia',
-      flagURL: 'https://www.countryflags.io/bo/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/bo.png',
       region: _regionsList.sa,
       area: 1098581,
       capital: 'Sucre',
@@ -126,7 +126,7 @@ const externalService = {};
     },
     {
       name: 'Paraguay',
-      flagURL: 'https://www.countryflags.io/py/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/py.png',
       region: _regionsList.sa,
       area: 406752,
       capital: 'Asunci\u00f3n',
@@ -134,7 +134,7 @@ const externalService = {};
     },
     {
       name: 'Egypt',
-      flagURL: 'https://www.countryflags.io/eg/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/eg.png',
       region: _regionsList.af,
       area: 1002450,
       capital: 'Cairo',
@@ -142,7 +142,7 @@ const externalService = {};
     },
     {
       name: 'Tunisia',
-      flagURL: 'https://www.countryflags.io/tn/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/tn.png',
       region: _regionsList.af,
       area: 163610,
       capital: 'Tunis',
@@ -150,7 +150,7 @@ const externalService = {};
     },
     {
       name: 'South Sudan',
-      flagURL: 'https://www.countryflags.io/ss/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/ss.png',
       region: _regionsList.af,
       area: 619745,
       capital: 'Juba',
@@ -158,7 +158,7 @@ const externalService = {};
     },
     {
       name: 'Saudi Arabia',
-      flagURL: 'https://www.countryflags.io/ss/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/sa.png',
       region: _regionsList.as,
       area: 2149690,
       capital: 'Riyadh',
@@ -166,7 +166,7 @@ const externalService = {};
     },
     {
       name: 'Turkey',
-      flagURL: 'https://www.countryflags.io/tr/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/tr.png',
       region: _regionsList.as,
       area: 783562,
       capital: 'Ankara',
@@ -174,7 +174,7 @@ const externalService = {};
     },
     {
       name: 'Algeria',
-      flagURL: 'https://www.countryflags.io/dz/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/ar.png',
       region: _regionsList.af,
       area: 2381741,
       capital: 'Algiers',
@@ -182,7 +182,7 @@ const externalService = {};
     },
     {
       name: 'China',
-      flagURL: 'https://www.countryflags.io/cn/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/cn.png',
       region: _regionsList.as,
       area: 9706961,
       capital: 'Beijing',
@@ -190,7 +190,7 @@ const externalService = {};
     },
     {
       name: 'Japan',
-      flagURL: 'https://www.countryflags.io/jp/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/jp.png',
       region: _regionsList.as,
       area: 377930,
       capital: 'Tokyo',
@@ -198,7 +198,7 @@ const externalService = {};
     },
     {
       name: 'North Korea',
-      flagURL: 'https://www.countryflags.io/kp/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/kp.png',
       region: _regionsList.as,
       area: 120538,
       capital: 'Pyongyang',
@@ -206,7 +206,7 @@ const externalService = {};
     },
     {
       name: 'South Korea',
-      flagURL: 'https://www.countryflags.io/kr/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/kr.png',
       region: _regionsList.as,
       area: 100210,
       capital: 'Seoul',
@@ -214,7 +214,7 @@ const externalService = {};
     },
     {
       name: 'Australia',
-      flagURL: 'https://www.countryflags.io/au/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/au.png',
       region: _regionsList.oc,
       area: 7692024,
       capital: 'Canberra',
@@ -222,7 +222,7 @@ const externalService = {};
     },
     {
       name: 'New Zealand',
-      flagURL: 'https://www.countryflags.io/nz/flat/64.png',
+      flagURL: 'https://flagpedia.net/data/flags/h40/nz.png',
       region: _regionsList.oc,
       area: 270467,
       capital: 'Wellington',
